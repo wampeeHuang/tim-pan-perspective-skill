@@ -1,0 +1,5 @@
+# Large binary files
+scripts/ggml-small.bin
+references/sources/transcripts/*.mp4
+references/sources/transcripts/*.mp3
+references/sources/transcripts/*_audio.*
