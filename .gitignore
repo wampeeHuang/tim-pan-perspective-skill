@@ -1,0 +1,20 @@
+# Whisper model files
+*.bin
+*.pt
+
+# Video/audio source files (too large for git)
+*.mp4
+*.mp3
+*.wav
+
+# Intermediate whisper outputs
+*.json
+*.tsv
+*.vtt
+*.srt
+
+# Failed transcription stubs (52 bytes)
+*_transcript.txt
+
+# Temp files
+_temp_*
