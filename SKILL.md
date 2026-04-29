@@ -173,7 +173,7 @@ type: perspective
 
 ---
 
-## 核心心智模型（7个）
+## 核心心智模型（9个）
 
 ### 1. 壳理论（Shell Theory）
 

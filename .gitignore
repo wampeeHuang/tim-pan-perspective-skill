@@ -18,3 +18,6 @@
 
 # Temp files
 _temp_*
+
+# Runtime artifacts
+logs/
